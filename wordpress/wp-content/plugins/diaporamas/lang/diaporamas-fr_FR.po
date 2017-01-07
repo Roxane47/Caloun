@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Diaporamas by SWd\n"
+"POT-Creation-Date: 2016-01-31 10:10+0100\n"
+"PO-Revision-Date: 2016-01-31 10:10+0100\n"
+"Last-Translator: Thierry FOSSE <thierry@succes-web.com>\n"
+"Language-Team: Thierry FOSSE <thiery.fosse@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: diaporamas.php:124
+msgid "Diaporamas is not configured yet. "
+msgstr "Diaporamas n'est pas configuré."
+
+#: diaporamas.php:125
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: diaporamas.php:125
+msgid " to adjust the settings."
+msgstr " pour procéder au paramétrage."
+
+#: diaporamas.php:335 swd-slider-init.php:69 swd-slider-init.php:70
+msgid "Add New Slide"
+msgstr "Nouvelle Image"
+
+#: diaporamas.php:336 swd-slider-parametres.php:52
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: diaporamas.php:350
+msgid "Slider Settings"
+msgstr "Paramètres Diaporama"
+
+#: diaporamas.php:394
+msgid "Hide Images Title and Excerpt"
+msgstr "Masque le Titre et l'Extrait des Images"
+
+#: diaporamas.php:400
+msgid "Image Size"
+msgstr "Taille d'Image"
+
+#: diaporamas.php:410
+msgid "Order By"
+msgstr "Tri"
+
+#: diaporamas.php:420
+msgid "Ascending"
+msgstr "Croissant"
+
+#: diaporamas.php:423
+msgid "Decending"
+msgstr "Décroissant"
+
+#: diaporamas.php:428
+msgid "Animation"
+msgstr "Animation"
+
+#: diaporamas.php:431
+msgid "Fade"
+msgstr "Fondu"
+
+#: diaporamas.php:432 swd-slider-init.php:67
+msgid "Slide"
+msgstr "Image"
+
+#: diaporamas.php:437
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: diaporamas.php:440
+msgid "Vertical"
+msgstr "Vertical"
+
+#: diaporamas.php:445
+msgid "Max number of Slides"
+msgstr "Nombre maximum d'Images"
+
+#: diaporamas.php:445
+msgid "zero for all images"
+msgstr "zéro pour toutes les images"
+
+#: diaporamas.php:451
+msgid "Display time of each image (in seconds)"
+msgstr "Durée d'affichage de chaque image (en secondes)"
+
+#: diaporamas.php:457
+msgid "Animation Speed (in seconds)"
+msgstr "Durée de l'animation (en secondes)"
+
+#: diaporamas.php:463
+msgid "Title Tag"
+msgstr "Balise Title"
+
+#: diaporamas.php:472
+msgid "Framed Picture"
+msgstr "Encadrement de l'Image"
+
+#: diaporamas.php:475
+msgid "with frame"
+msgstr "Avec un cadre"
+
+#: diaporamas.php:482
+msgid "With a background"
+msgstr "Avec un fond"
+
+#: diaporamas.php:488
+msgid "Elements Navigation"
+msgstr "Eléments de Navigation"
+
+#: diaporamas.php:491
+msgid "Square"
+msgstr "Carré"
+
+#: diaporamas.php:494
+msgid "Rounded"
+msgstr "Arrondi"
+
+#: diaporamas.php:497
+msgid "Hide fleas"
+msgstr "Masque les puces"
+
+#: diaporamas.php:500
+msgid "Hide previous and next navigation elements"
+msgstr "Masque les éléments de navigation précédent et suivant"
+
+#: diaporamas.php:520
+msgid "Image Location"
+msgstr "Emplacement de l'image"
+
+#: diaporamas.php:522 diaporamas.php:571
+msgid "Featured Image"
+msgstr "Image à la Une"
+
+#: diaporamas.php:524
+msgid "Image Settings"
+msgstr "Paramètres de l'Image"
+
+#: diaporamas.php:538
+msgid "A click on this slide is to link"
+msgstr "Un click sur cette image a pour lien"
+
+#: diaporamas.php:545
+msgid "The picture is attached to Slideshow:"
+msgstr "L'Image est attachée au Diaporama :"
+
+#: diaporamas.php:566
+msgid "Location"
+msgstr "Emplacement"
+
+#: diaporamas.php:574
+msgid "Link (this option will be available in the next release)"
+msgstr "Lien ( cette option sera disponible dans la prochaine version )"
+
+#: diaporamas.php:581 diaporamas.php:680
+msgid "Link"
+msgstr "Lien"
+
+#: diaporamas.php:658 diaporamas.php:677
+msgid "Title"
+msgstr "Titre"
+
+#: diaporamas.php:659
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: diaporamas.php:676
+msgid "Image"
+msgstr "Image"
+
+#: diaporamas.php:678 swd-slider-init.php:18
+msgid "Slider"
+msgstr "Diaporama"
+
+#: diaporamas.php:679
+msgid "Order"
+msgstr "Ordre"
+
+#: diaporamas.php:681
+msgid "Date"
+msgstr "Date"
+
+#: diaporamas.php:711
+msgid "Slider Name"
+msgstr "Nom du Diaporama"
+
+#: diaporamas.php:713
+msgid "Image Name (optional)"
+msgstr "Nom de l'image (facultatif)"
+
+#: swd-slider-init.php:17
+msgid "Sliders"
+msgstr "Diaporamas"
+
+#: swd-slider-init.php:19
+msgid "All Sliders"
+msgstr "Tous les Diaporamas"
+
+#: swd-slider-init.php:20 swd-slider-init.php:21
+msgid "Add New Slider"
+msgstr "Nouveau Diaporama"
+
+#: swd-slider-init.php:22
+msgid "Edit Slider"
+msgstr "Modifier le Diaporama"
+
+#: swd-slider-init.php:23
+msgid "New Slider"
+msgstr "Nouveau Diaporama"
+
+#: swd-slider-init.php:24
+msgid "View Slider"
+msgstr "Visualiser le Diaporama"
+
+#: swd-slider-init.php:25
+msgid "Search Sliders"
+msgstr "Recherche des Diaporamas"
+
+#: swd-slider-init.php:26
+msgid "No sliders found"
+msgstr "Aucun Diaporama trouvé"
+
+#: swd-slider-init.php:27
+msgid "No sliders found in Trash"
+msgstr "Aucun Diaporama trouvé dans la corbeille"
+
+#: swd-slider-init.php:66
+msgid "Slides"
+msgstr "Images"
+
+#: swd-slider-init.php:68
+msgid "All Slides"
+msgstr "Toutes les Images"
+
+#: swd-slider-init.php:71
+msgid "Edit Slide"
+msgstr "Edition d'image"
+
+#: swd-slider-init.php:72
+msgid "New Slide"
+msgstr "Nouvelle Image"
+
+#: swd-slider-init.php:73
+msgid "View Slide"
+msgstr "Visualiser l'image"
+
+#: swd-slider-init.php:74
+msgid "Search Slides"
+msgstr "Rechercher des Images"
+
+#: swd-slider-init.php:75
+msgid "No Slide found"
+msgstr "Aucune Image trouvée"
+
+#: swd-slider-init.php:76
+msgid "No Slide found in Trash"
+msgstr "Aucune Image trouvée dans la corbeille"
+
+#: swd-slider-parametres-general.php:52 swd-slider-parametres-images.php:31
+msgid "Settings saved."
+msgstr "Paramètres sauvegardés."
+
+#: swd-slider-parametres-general.php:61
+msgid ""
+"This plugin allows you to select the location or recorded images will be "
+"added to your different slideshows."
+msgstr ""
+"Ce plugin vous permet de sélectionner l'emplacement où seront enregistrées "
+"les images ajoutées pour vos différents diaporamas."
+
+#: swd-slider-parametres-general.php:65
+msgid "Organize my files sent as Wordpress Media settings"
+msgstr ""
+"Organiser mes fichiers envoyés selon les réglages des médias de Wordpress."
+
+#: swd-slider-parametres-general.php:73
+msgid "Organize my uploads into month- and year-based folders"
+msgstr "Organiser mes fichiers envoyés dans des dossiers mensuels et annuels"
+
+#: swd-slider-parametres-images.php:40
+msgid "Thumbnail size"
+msgstr "Tailles des images"
+
+#: swd-slider-parametres-images.php:42
+msgid "Width"
+msgstr "Largeur"
+
+#: swd-slider-parametres-images.php:43
+msgid "Height"
+msgstr "Hauteur"
+
+#: swd-slider-parametres.php:13
+msgid "Location of Files"
+msgstr "Emplacement des Fichiers"
+
+#: swd-slider-parametres.php:21
+msgid "Thumbnail"
+msgstr "Miniatures"
+
+#: swd-slider-parametres.php:47
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Vous ne disposez pas des autorisations suffisantes pour accéder à cette page."
+
+#: swd-slider-parametres.php:60
+msgid "General"
+msgstr "Général"
+
+#: swd-slider-parametres.php:61
+msgid "Images"
+msgstr "Images"
+
+#: swd-slider-parametres.php:81
+msgid "Developed By:"
+msgstr "Développé par :"
+
+#: swd-slider-parametres.php:85
+msgid "https://wordpress.org/plugins/diaporamas/"
+msgstr "https://fr.wordpress.org/plugins/diaporamas/"
+
+#: swd-slider-parametres.php:86
+#, php-format
+msgid ""
+"You like this plugin? Write a review or some feed back <a href=\"%s\">here</"
+"a>."
+msgstr "Vous aimez ce plugin ? Laissez un avis <a href=\"%s\">ici</a>."
+
+#: swd-slider-parametres.php:92
+msgid "Buy me a coffee or support this plugin."
+msgstr "Vous pouvez m'offrir un café ou contribuez à ce plugin !"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Hide image list"
+#~ msgstr "Masque les puces"
+
+#~ msgid "Max Number of Slides"
+#~ msgstr "Nombre Maximum d'Images"
+
+#~ msgid "You like this plugin? Write a review or some feed back"
+#~ msgstr "Vous aimez ce plugin ? Laissez un avis"
+
+#~ msgid "here"
+#~ msgstr "ici"
+
+#~ msgid "SWD Sliders is not configured yet. "
+#~ msgstr "SWD Sliders n'est pas configuré. "
+
+#~ msgid "Please do it now"
+#~ msgstr "Veuillez le faire maintenant"
+
+#~ msgid "Destination pictures: "
+#~ msgstr "Destination des images :"
+
+#~ msgid "Folder Media"
+#~ msgstr "Dossier des Médias"
+
+#~ msgid "Folder Plugin"
+#~ msgstr "Dossier du Plugin"
+
+#~ msgid "Folder Site"
+#~ msgstr "Dossier du Site (blog)"
+
+#~ msgid "Select Folder:"
+#~ msgstr "Sélectionnez un dossier :"
+
+#~ msgid "Destination Folder:"
+#~ msgstr "Dossier de destination :"
+
+#~ msgid "settings saved."
+#~ msgstr "paramètres sauvegardés."
+
+#~ msgid "Favorite Color:"
+#~ msgstr "Couleur favorite :"
+
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
+
+#~ msgid "without frame"
+#~ msgstr "sans cadre"
+
+#~ msgid "Square Corners"
+#~ msgstr "Angles carrés"
+
+#~ msgid "Rounded Corners"
+#~ msgstr "Angles arrondis"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Uploading Files"
+#~ msgstr "Téléchargement de fichiers"
+
+#~ msgid "SWD Sliders is not configured yet. Please do it now."
+#~ msgstr ""
+#~ "SWD Sliders n'est pas encore paramétré. Veuillez le configurer maintenant."
+
+#~ msgid "Add New"
+#~ msgstr "Ajoute un nouveau"
+
+#~ msgid "Slide Settings"
+#~ msgstr "Paramètres Image"
+
+#~ msgid "Slider Title"
+#~ msgstr "Titre Diaporama"
+
+#~ msgid "Hide Title/Excerpt"
+#~ msgstr "Masque le Titre et l'Extrait des Images"
+
+#~ msgid "Randomize Slides"
+#~ msgstr "Images Aléatoires"
+
+#~ msgid "Order Direction"
+#~ msgstr "Sens du Tri"
+
+#~ msgid "Animation Direction"
+#~ msgstr "Sens de l'Animation"
+
+#~ msgid "Slideshow Speed (in seconds)"
+#~ msgstr "Vitesse du Slideshow (en secondes)"
+
+#~ msgid "0 for all slides"
+#~ msgstr "0 pour toutes les images"
+
+#~ msgid "or change this to your custom classname"
+#~ msgstr "ou changé pour votre propre nom de classe"
+
+#~ msgid "Image Name"
+#~ msgstr "Nom de l'Image"
+
+#~ msgid "Options saved"
+#~ msgstr "Options enregistrées"
+
+#~ msgid "If you like this plugin, write a review or some feed back"
+#~ msgstr "Vous aimez ce plugin ? Laissez un avis"
+
+#~ msgid "Image Name (Optional)"
+#~ msgstr "Nom de l'Image (facultatif)"
+
+#~ msgid "Name Optional Picture"
+#~ msgstr "Nom de l'Image Facultatif"
+
+#~ msgid "Image URL"
+#~ msgstr "URL"

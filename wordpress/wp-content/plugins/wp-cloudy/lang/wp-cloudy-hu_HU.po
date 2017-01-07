@@ -1,0 +1,1447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Cloudy\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-cloudy\n"
+"POT-Creation-Date: 2016-07-05 19:22+0200\n"
+"PO-Revision-Date: 2016-07-05 19:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Benjamin DENIS\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Source-Locale: hu_HU\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: wpcloudy-admin.php:62
+msgid ""
+"The best freemium plugin to customize WordPress administration in seconds."
+msgstr ""
+"A legjobb freemium plugin testreszabása WordPress adminisztrációs felületen "
+"másodpercek alatt."
+
+#: wpcloudy-admin.php:63
+msgid "Download for free"
+msgstr "Letöltés ingyen"
+
+#: wpcloudy-admin.php:67
+msgid "WP Cloudy"
+msgstr "WP Cloudy"
+
+#: wpcloudy-admin.php:73
+msgid "You like WP Cloudy? Don't forget to rate it 5 stars!"
+msgstr "Szereted WP Cloudy-t? Ne felejtsd el, hogy értékeljd 5 csillagra!"
+
+#: wpcloudy-admin.php:110
+msgid "Export Settings"
+msgstr "Exportálás Beállítások"
+
+#: wpcloudy-admin.php:112
+msgid ""
+"Export the plugin settings for this site as a .json file. This allows you to "
+"easily import the configuration into another site."
+msgstr ""
+"Exportálja a bővítmény beállításait ezen az oldalon, mint egy .json fájlt. "
+"Ez lehetővé teszi, hogy egyszerűen importálni a beállítást a másik oldalon."
+
+#: wpcloudy-admin.php:117
+msgid "Export"
+msgstr "Exportálás"
+
+#: wpcloudy-admin.php:124
+msgid "Import Settings"
+msgstr "Importálás Beállítások"
+
+#: wpcloudy-admin.php:126
+msgid ""
+"Import the plugin settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+"Importálja a plugin beállításokat egy .json fájlt. Ez a fájl állítható elő "
+"az exportáló a beállításokat egy másik oldalra a fenti űrlap segítségével."
+
+#: wpcloudy-admin.php:134
+msgid "Import"
+msgstr "Importálás"
+
+#: wpcloudy-admin.php:141
+msgid "Reset Settings"
+msgstr "Beállítások Újraindítása"
+
+#: wpcloudy-admin.php:143
+msgid ""
+"Reset all WP Cloudy global settings. It will not delete your weathers and "
+"their indivuals settings."
+msgstr ""
+"Állítsa vissza az összes WP felhő globális beállításokat. Ez nem törli az "
+"időjárási és az egyéni beállításokat."
+
+#: wpcloudy-admin.php:148
+msgid "Reset settings"
+msgstr "Beállítások újraindítása"
+
+#: wpcloudy-admin.php:167
+msgid "Basic"
+msgstr "Alap"
+
+#: wpcloudy-admin.php:168 wpcloudy.php:369
+msgid "Display"
+msgstr "Kijelző"
+
+#: wpcloudy-admin.php:169 wpcloudy.php:370
+msgid "Advanced"
+msgstr "Haladó"
+
+#: wpcloudy-admin.php:170 wpcloudy.php:371
+msgid "Map"
+msgstr "Térkép"
+
+#: wpcloudy-admin.php:171
+msgid "Import/Export/Reset"
+msgstr "Import/Export/Újraindítás"
+
+#: wpcloudy-admin.php:172
+msgid "Support"
+msgstr "Támogatás"
+
+#: wpcloudy-admin.php:186
+msgid "Save changes"
+msgstr "Változtatások mentése"
+
+#: wpcloudy-admin.php:191
+msgid "WP Cloudy Premium"
+msgstr "WP Cloudy Prémium"
+
+#: wpcloudy-admin.php:195
+msgid "$ 19 / year"
+msgstr "$ 19 / év"
+
+#: wpcloudy-admin.php:197
+msgid "Enabled"
+msgstr "Engedélyezett"
+
+#: wpcloudy-admin.php:201
+msgid ""
+"Join now to get Skins & Geolocation Add-ons, and premium support by email."
+msgstr ""
+"Csatlakozz most, hogy Skins & Geolocation bővítményhez és prémium "
+"támogatáshoz e-mailben."
+
+#: wpcloudy-admin.php:205
+msgid "Join now"
+msgstr "Csatlakozz most"
+
+#: wpcloudy-admin.php:209
+msgid "WP Cloudy cache"
+msgstr "WP Cloudy gyorsítótár"
+
+#: wpcloudy-admin.php:213
+msgid "cache system"
+msgstr "gyorsítótár rendszer"
+
+#: wpcloudy-admin.php:216
+msgid "Click this button to refresh weather cache."
+msgstr "Ezzel a gombbal a frissítheted az időjárás gyorsítótárat."
+
+#: wpcloudy-admin.php:274 wpcloudy.php:368
+msgid "Basic settings"
+msgstr "Alap beállítások"
+
+#: wpcloudy-admin.php:281
+msgid "Bypass unit?"
+msgstr "Bypass egység?"
+
+#: wpcloudy-admin.php:289
+msgid "Unit"
+msgstr "Egység"
+
+#: wpcloudy-admin.php:297
+msgid "Bypass date format?"
+msgstr "Bypass dátum formátum?"
+
+#: wpcloudy-admin.php:305
+msgid "Date"
+msgstr "Dátum"
+
+#: wpcloudy-admin.php:314
+msgid "Display settings"
+msgstr "Kijelző beállíások"
+
+#: wpcloudy-admin.php:321 wpcloudy.php:446
+msgid "Current weather?"
+msgstr "Aktuális időjárás?"
+
+#: wpcloudy-admin.php:329 wpcloudy.php:452
+msgid "Short condition?"
+msgstr "Rövid állapot?"
+
+#: wpcloudy-admin.php:337
+msgid "Bypass the todays date format?"
+msgstr "Kitérő a mai dátum formátum?"
+
+#: wpcloudy-admin.php:345
+msgid "Todays date or day of the week?"
+msgstr "A mai dátum vagy a hét napja?"
+
+#: wpcloudy-admin.php:353 wpcloudy.php:521
+msgid "Temperatures unit (C / F)?"
+msgstr "Hőmérsékleti egység (C / F)?"
+
+#: wpcloudy-admin.php:361
+msgid "Sunrise + sunset?"
+msgstr "Napkelte + naplemente?"
+
+#: wpcloudy-admin.php:369 wpcloudy-admin.php:714 wpcloudy.php:488
+msgid "Wind?"
+msgstr "Szél?"
+
+#: wpcloudy-admin.php:377 wpcloudy.php:494
+msgid "Humidity?"
+msgstr "Páratartalom?"
+
+#: wpcloudy-admin.php:385 wpcloudy-admin.php:730 wpcloudy.php:500
+msgid "Pressure?"
+msgstr "Nyomás"
+
+#: wpcloudy-admin.php:393 wpcloudy.php:506
+msgid "Cloudiness?"
+msgstr "Felhőzet?"
+
+#: wpcloudy-admin.php:401 wpcloudy.php:512
+msgid "Precipitation?"
+msgstr "Csapadék?"
+
+#: wpcloudy-admin.php:409
+msgid "Hour forecast?"
+msgstr "Órai előrejelzés?"
+
+#: wpcloudy-admin.php:417
+msgid "Bypass number of hours forecast settings?"
+msgstr "Bypass órák száma az előrejelzést beállításoknál?"
+
+#: wpcloudy-admin.php:425
+msgid "Number of range hours forecast?"
+msgstr "Sor száma az órás előrejelzésnek?"
+
+#: wpcloudy-admin.php:433 wpcloudy-admin.php:1153
+msgid "Bypass individual temperatures settings?"
+msgstr "Bypass egyéni hőmérséklet beállítások?"
+
+#: wpcloudy-admin.php:441 wpcloudy.php:527
+msgid "Today temperature?"
+msgstr "Mai hőmérséklet?"
+
+#: wpcloudy-admin.php:449 wpcloudy.php:553
+msgid "16-Day Forecast"
+msgstr "16 napi Előrejezés"
+
+#: wpcloudy-admin.php:457
+msgid "Bypass number of days forecast settings?"
+msgstr "Bypass napok száma az előrejelzési beállításoknál?"
+
+#: wpcloudy-admin.php:465
+msgid "Number of days forecast"
+msgstr "Előrejelzési napok száma"
+
+#: wpcloudy-admin.php:473 wpcloudy-admin.php:1276
+msgid "Bypass the length of name days?"
+msgstr "Bypass a névnapok hossza?"
+
+#: wpcloudy-admin.php:481
+msgid "Length name days:"
+msgstr ""
+
+#: wpcloudy-admin.php:489 wpcloudy.php:596
+msgid "Link to OpenWeatherMap?"
+msgstr "Link az Nyitott időjárás térképhez?"
+
+#: wpcloudy-admin.php:497 wpcloudy.php:604
+msgid "Update date?"
+msgstr "Frissítés dátum"
+
+#: wpcloudy-admin.php:505
+msgid "Fluid design?"
+msgstr ""
+
+#: wpcloudy-admin.php:513
+msgid "Default Max width parent container (in pixels)?"
+msgstr ""
+
+#: wpcloudy-admin.php:522
+msgid "Advanced settings"
+msgstr "Haladó beállítások"
+
+#: wpcloudy-admin.php:529
+msgid "CSS 3 Animations"
+msgstr "CSS 3 Animációk"
+
+#: wpcloudy-admin.php:537 wpcloudy.php:627
+msgid "Background color"
+msgstr "Háttér szín"
+
+#: wpcloudy-admin.php:545 wpcloudy.php:631
+msgid "Text color"
+msgstr "Szöveg szín"
+
+#: wpcloudy-admin.php:553 wpcloudy.php:635
+msgid "Border color"
+msgstr "Keret szín"
+
+#: wpcloudy-admin.php:561
+msgid "Bypass size?"
+msgstr "Bypass méret?"
+
+#: wpcloudy-admin.php:569
+msgid "Size"
+msgstr "Méret"
+
+#: wpcloudy-admin.php:577
+msgid "Disable cache"
+msgstr "Gyorsítótár tiltása"
+
+#: wpcloudy-admin.php:585
+msgid "Time cache refresh (in minutes)"
+msgstr "Gyorsítótár idejének frissítése (percekben)"
+
+#: wpcloudy-admin.php:593
+msgid "Open Weather Map API key"
+msgstr "Nyitott időjárás térkép API kulccsal"
+
+#: wpcloudy-admin.php:601
+msgid "Disable Bootstrap Modal JS?"
+msgstr "Kikapcsolja Bootstrap modális JS-t?"
+
+#: wpcloudy-admin.php:611
+msgid "Map settings"
+msgstr "Térkép beállítások"
+
+#: wpcloudy-admin.php:618
+msgid "Load JS/CSS from:"
+msgstr "JS/CSS betöltése:"
+
+#: wpcloudy-admin.php:626
+msgid "Map?"
+msgstr "Térkép?"
+
+#: wpcloudy-admin.php:634
+msgid "Map height"
+msgstr "Térkép hossza"
+
+#: wpcloudy-admin.php:642
+msgid "Bypass layers opacity?"
+msgstr "Bypass rétegek átlátszósága"
+
+#: wpcloudy-admin.php:650 wpcloudy.php:663
+msgid "Layers opacity"
+msgstr "Rétegek átlátszósága"
+
+#: wpcloudy-admin.php:658
+msgid "Bypass zoom?"
+msgstr "Bypass zoom?"
+
+#: wpcloudy-admin.php:666 wpcloudy.php:679
+msgid "Zoom"
+msgstr "Zoom"
+
+#: wpcloudy-admin.php:674
+msgid "Disable zoom wheel?"
+msgstr "Zoom kerék tiltása?"
+
+#: wpcloudy-admin.php:682
+msgid "Stations?"
+msgstr "Állomások?"
+
+#: wpcloudy-admin.php:690
+msgid "Clouds?"
+msgstr "Felhők"
+
+#: wpcloudy-admin.php:698
+msgid "Precipitations?"
+msgstr "Csapadék?"
+
+#: wpcloudy-admin.php:706
+msgid "Snow?"
+msgstr "Hó?"
+
+#: wpcloudy-admin.php:722
+msgid "Temperatures?"
+msgstr "Hőmérséklet?"
+
+#: wpcloudy-admin.php:791
+msgid "Basic settings to bypass:"
+msgstr "Alap beállítások bypassnál"
+
+#: wpcloudy-admin.php:796
+msgid "Display settings to bypass:"
+msgstr "Kijelző beállítások a bypassnál"
+
+#: wpcloudy-admin.php:801
+msgid "Advanced settings to bypass:"
+msgstr "Haladó beállítások a bypassnál:"
+
+#: wpcloudy-admin.php:806
+msgid "Map settings to bypass:"
+msgstr "Térkép beállítások bypassnál:"
+
+#: wpcloudy-admin.php:811
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: wpcloudy-admin.php:827
+msgid "Enable bypass unit on all weather?"
+msgstr "Engedélyezi a bypass egységet minden időjárásnál"
+
+#: wpcloudy-admin.php:843 wpcloudy.php:394
+msgid "Imperial"
+msgstr "Angolszász"
+
+#: wpcloudy-admin.php:846 wpcloudy.php:395
+msgid "Metric"
+msgstr "Metrikus"
+
+#: wpcloudy-admin.php:863
+msgid "Enable bypass date format on all weather?"
+msgstr "Engedélyezi a bypass dátum formátumot minden időjárásnál?"
+
+#: wpcloudy-admin.php:879 wpcloudy.php:401
+msgid "12 h"
+msgstr "12 órás"
+
+#: wpcloudy-admin.php:882 wpcloudy.php:402
+msgid "24 h"
+msgstr "24 órás"
+
+#: wpcloudy-admin.php:899
+msgid "Display current weather on all weather?"
+msgstr "Kijelzi az aktuális időjárást minden időjárásnál?"
+
+#: wpcloudy-admin.php:914
+msgid "Display short condition on all weather?"
+msgstr "Rövid feltételű kijelzés minden időjárásra?"
+
+#: wpcloudy-admin.php:929
+msgid "Bypass todays date format?"
+msgstr "Bypass a mai dátum formátum?"
+
+#: wpcloudy-admin.php:945
+msgid "None (default)?"
+msgstr "Nincs (alapértelmezett)?"
+
+#: wpcloudy-admin.php:953 wpcloudy.php:467
+msgid "Day of the week (eg: Sunday)?"
+msgstr "A hét napja (pl: vasárnap)?"
+
+#: wpcloudy-admin.php:961
+msgid "Todays date?"
+msgstr "Mai dátum?"
+
+#: wpcloudy-admin.php:977
+msgid "Display temperatures unit (C / F)?"
+msgstr "Kijelzi a hőmérsékleti egységet (C / F)?"
+
+#: wpcloudy-admin.php:993
+msgid "Display sunrise - sunset on all weather?"
+msgstr "Kijelző napkelte - napnyugta minden időjárásra?"
+
+#: wpcloudy-admin.php:1009
+msgid "Display wind on all weather?"
+msgstr "Szél kijelzése minden időjárásra?"
+
+#: wpcloudy-admin.php:1025
+msgid "Display humidity on all weather?"
+msgstr "Páratartalom kijelzése minden időjárásra?"
+
+#: wpcloudy-admin.php:1041
+msgid "Display pressure on all weather?"
+msgstr "Nyomás kijelzése minden időjárásra?"
+
+#: wpcloudy-admin.php:1057
+msgid "Display cloudiness on all weather?"
+msgstr "Felhősség kijelzés minden időjárásra?"
+
+#: wpcloudy-admin.php:1073
+msgid "Display precipitation on all weather?"
+msgstr "Csapadék kijelzése minden időjárásra?"
+
+#: wpcloudy-admin.php:1089
+msgid "Display hour forecast on all weather?"
+msgstr "Órás előrejlzés kijelzése minden időjárásra?"
+
+#: wpcloudy-admin.php:1105
+msgid "Enable bypass number of hours forecast on all weather?"
+msgstr "Bypass szám engedélyezése az órás előrejelzéshez minden időjárásra?"
+
+#: wpcloudy-admin.php:1121 wpcloudy.php:542
+msgid "1"
+msgstr "1"
+
+#: wpcloudy-admin.php:1124 wpcloudy.php:543
+msgid "2"
+msgstr "2"
+
+#: wpcloudy-admin.php:1127 wpcloudy.php:544
+msgid "3"
+msgstr "3"
+
+#: wpcloudy-admin.php:1130 wpcloudy.php:545
+msgid "4"
+msgstr "4"
+
+#: wpcloudy-admin.php:1133 wpcloudy.php:546
+msgid "5"
+msgstr "5"
+
+#: wpcloudy-admin.php:1136 wpcloudy.php:547
+msgid "6"
+msgstr "6"
+
+#: wpcloudy-admin.php:1169
+msgid "Display today temperature on all weather?"
+msgstr "A kijelzi a mai hőmérséklet minden időjárásnál?"
+
+#: wpcloudy-admin.php:1185
+msgid "Display 16-day Forecast on all weather?"
+msgstr "Kijelzi 16 napos előrejelzést minden időjárásra?"
+
+#: wpcloudy-admin.php:1201
+msgid "Enable bypass number of days forecast on all weather?"
+msgstr "Bypass szám engedélyezése a napi előrejelzés minden időjárásnál?"
+
+#: wpcloudy-admin.php:1217 wpcloudy.php:564
+msgid "1 day"
+msgstr "1 nap"
+
+#: wpcloudy-admin.php:1220 wpcloudy.php:565
+msgid "2 days"
+msgstr "2 nap"
+
+#: wpcloudy-admin.php:1223 wpcloudy.php:566
+msgid "3 days"
+msgstr "3 nap"
+
+#: wpcloudy-admin.php:1226 wpcloudy.php:567
+msgid "4 days"
+msgstr "4 nap"
+
+#: wpcloudy-admin.php:1229 wpcloudy.php:568
+msgid "5 days"
+msgstr "5 nap"
+
+#: wpcloudy-admin.php:1232 wpcloudy.php:569
+msgid "6 days"
+msgstr "6 nap"
+
+#: wpcloudy-admin.php:1235 wpcloudy.php:570
+msgid "7 days"
+msgstr "7 nap"
+
+#: wpcloudy-admin.php:1238 wpcloudy.php:571
+msgid "8 days"
+msgstr "8 nap"
+
+#: wpcloudy-admin.php:1241 wpcloudy.php:572
+msgid "9 days"
+msgstr "9 nap"
+
+#: wpcloudy-admin.php:1244 wpcloudy.php:573
+msgid "10 days"
+msgstr "10 nap"
+
+#: wpcloudy-admin.php:1247 wpcloudy.php:574
+msgid "11 days"
+msgstr "11 nap"
+
+#: wpcloudy-admin.php:1250 wpcloudy.php:575
+msgid "12 days"
+msgstr "12 nap"
+
+#: wpcloudy-admin.php:1253 wpcloudy.php:576
+msgid "13 days"
+msgstr "13 nap"
+
+#: wpcloudy-admin.php:1256 wpcloudy.php:577
+msgid "14 days"
+msgstr "14 nap"
+
+#: wpcloudy-admin.php:1259 wpcloudy.php:578
+msgid "15 days"
+msgstr "15 nap"
+
+#: wpcloudy-admin.php:1293
+msgid "Short days names"
+msgstr "Rövid napok nevei"
+
+#: wpcloudy-admin.php:1301
+msgid "Normal days names"
+msgstr "Normál napok nevei"
+
+#: wpcloudy-admin.php:1317
+msgid "Display link to full weather on OpenWeatherMap?"
+msgstr "A teljes időjárs Link kijelzése az Nyitott Időjárás Térképen?"
+
+#: wpcloudy-admin.php:1334
+msgid "Display update date on all weather?"
+msgstr "Kijelző dátum frissítés minden időjárásra?"
+
+#: wpcloudy-admin.php:1351
+msgid "Enable fluid design on all weather?"
+msgstr ""
+
+#: wpcloudy-admin.php:1376
+msgid "Disable CSS3 animations, transformations and transitions?"
+msgstr "Tiltsa CSS3 animációkat, átalakulásokat és átmeneteket?"
+
+#: wpcloudy-admin.php:1421
+msgid "Enable bypass size on all weather?"
+msgstr "Engedélyezze a bypass méretét minden időjárásnál?"
+
+#: wpcloudy-admin.php:1437 wpcloudy.php:645
+msgid "Small"
+msgstr "Kicsi"
+
+#: wpcloudy-admin.php:1440 wpcloudy.php:646
+msgid "Medium"
+msgstr "Közepes"
+
+#: wpcloudy-admin.php:1443 wpcloudy.php:647
+msgid "Large"
+msgstr "Nagy"
+
+#: wpcloudy-admin.php:1460
+msgid "Disable weather cache? (not recommended)"
+msgstr "Tiltsa időjárás gyorsítótárat? (nem ajánlott)"
+
+#: wpcloudy-admin.php:1473
+msgid "Default value: 30 minutes"
+msgstr "Alapértelmezett érték: 30 perc"
+
+#: wpcloudy-admin.php:1482
+msgid "Strongly recommended: "
+msgstr "Erősen ajánlott:"
+
+#: wpcloudy-admin.php:1482
+msgid "Strongly recommended: get your free OWM API key here"
+msgstr "Erősen ajánlott: kap a szabad SAJÁT API kulcsot itt"
+
+#: wpcloudy-admin.php:1495
+msgid ""
+"Disable Bootstrap Modal JS? (disable this if you already include Bootstrap "
+"JS in your theme)"
+msgstr ""
+"Kikapcsolja Bootstrap modális JS-t? (Kikapcsolja ezt, ha már tartalmazza "
+"Bootstrap JS a témát)"
+
+#: wpcloudy-admin.php:1511
+msgid "Enable map on all weather?"
+msgstr "Engedélyezze a térképet minden időjárásnál?"
+
+#: wpcloudy-admin.php:1556
+msgid "Enable bypass map opacity on all weather?"
+msgstr "Bypass térkép átlátszóság engedélyezése minden időjárásnál? "
+
+#: wpcloudy-admin.php:1619
+msgid "Enable bypass map zoom on all weather?"
+msgstr "Bypass térkép zoom engedélyezése minden időjárásnál?"
+
+#: wpcloudy-admin.php:1703
+msgid "Disable zoom wheel on all weather?"
+msgstr "Kikapcsolja a zoom görgőt minden időjárásnál?"
+
+#: wpcloudy-admin.php:1719
+msgid "Display stations on all weather maps?"
+msgstr "Állomások kijelzése minden időjárás térképen?"
+
+#: wpcloudy-admin.php:1735
+msgid "Display clouds on all weather maps?"
+msgstr "Felhők kijelzése minden időjárás térképen?"
+
+#: wpcloudy-admin.php:1751
+msgid "Display precipitations on all weather maps?"
+msgstr "Csapadék kijelzése minden időjárás térképen?"
+
+#: wpcloudy-admin.php:1768
+msgid "Display snow on all weather maps?"
+msgstr "Hó kijelzése minden időjárás térképen?"
+
+#: wpcloudy-admin.php:1784
+msgid "Display wind on all weather maps?"
+msgstr "Szél kijelzése minden időjárás térképen?"
+
+#: wpcloudy-admin.php:1800
+msgid "Display temperatures on all weather maps?"
+msgstr "Hőmérséklet kijelzése minden időjárás térképen?"
+
+#: wpcloudy-admin.php:1816
+msgid "Display pressure on all weather maps?"
+msgstr "Nyomás kijelzése minden időjárás térképen?"
+
+#: wpcloudy-admin.php:1826
+msgid "Problem with WP Cloudy?"
+msgstr "WP Cloudy-val probléma van?"
+
+#: wpcloudy-admin.php:1827
+msgid "FAQ"
+msgstr "Gyakran Intézett Kérdések"
+
+#: wpcloudy-admin.php:1827
+msgid "Read our FAQ"
+msgstr "Olvasd el a mi Gyakran Intézett Kérdéseinket"
+
+#: wpcloudy-admin.php:1828
+msgid "Guides"
+msgstr "Útmutatók"
+
+#: wpcloudy-admin.php:1828
+msgid "Read our Guides"
+msgstr "Olvasd ami útmutatók"
+
+#: wpcloudy-admin.php:1829
+msgid "WP Cloudy Forum on WordPress.org"
+msgstr "WP Cloudy Fórum a WordPress.org-on"
+
+#: wpcloudy-export.php:40
+msgid "Please upload a valid .json file"
+msgstr "Kérem töltsön fel egy érvényes .json fájlt"
+
+#: wpcloudy-export.php:44
+msgid "Please upload a file to import"
+msgstr "Kérjük, töltsön fel egy fájlt importáláshoz"
+
+#: wpcloudy-pointers.php:32
+msgid ""
+"<strong>Before starting:</strong> enter your own OpenWeatherMap API key in "
+"<a href=\""
+msgstr ""
+
+#: wpcloudy-widget.php:32
+msgid "Please select a weather via configure link"
+msgstr "Kérjük, válasszon ki egy időjárás útvonalat kapcsolati beállítást"
+
+#: wpcloudy-widget.php:55
+msgid "Select the weather to display:"
+msgstr "Válaszd ki időjárás a kijelzőn:"
+
+#: wpcloudy.php:61
+msgid "Settings"
+msgstr "Beállítások"
+
+#: wpcloudy.php:274
+msgid "Duplicate this item"
+msgstr "Másolat erről az elemről"
+
+#: wpcloudy.php:274
+msgid "Duplicate"
+msgstr "Másolat"
+
+#: wpcloudy.php:287
+msgid "WP Cloudy global settings"
+msgstr ""
+
+#: wpcloudy.php:292
+msgid "Copy and paste this shortcode anywhere in posts, pages, text widgets: "
+msgstr ""
+"Másolás és beillesztés rövidkódja bárhová a bejegyzésbe, oldalakba, szöveges "
+"widgetekbe:"
+
+#: wpcloudy.php:300
+msgid ""
+"If you need to display this weather anywhere in your theme, simply copy and "
+"paste this code snippet in your PHP file like sidebar.php: "
+msgstr ""
+"Ha kell, hogy megjelenjen ez az időjárás bárhol a téma, egyszerűen másolja "
+"be ezt a kódrészletet a PHP fájlt, mint sidebar.php-t:"
+
+#: wpcloudy.php:376
+msgid "City"
+msgstr "Város"
+
+#: wpcloudy.php:377
+msgid "Enter your city"
+msgstr "A városod"
+
+#: wpcloudy.php:380
+msgid "Custom city title"
+msgstr "Egyedi város neve"
+
+#: wpcloudy.php:384
+msgid "State?"
+msgstr "Állam?"
+
+#: wpcloudy.php:388
+msgid "Country?"
+msgstr "Ország?"
+
+#: wpcloudy.php:392
+msgid "Imperial or metric units?"
+msgstr "Angolszász vagy metrikus mértékegységben?"
+
+#: wpcloudy.php:399
+msgid "12h / 24h date format?"
+msgstr "12 órás / 24 órás dátum formátum?"
+
+#: wpcloudy.php:408
+msgid "Bypass default WordPress timezone setting?"
+msgstr "Bypass alapértelmezett WordPress időzónát beállításnál?"
+
+#: wpcloudy.php:412
+msgid "Custom timezone? (default: WordPress general settings)"
+msgstr ""
+"Szokásos időzónát? (Alapértelmezett: WordPress általános beállításoknál)"
+
+#: wpcloudy.php:414
+msgid "UTC -12"
+msgstr "UTC -12"
+
+#: wpcloudy.php:415
+msgid "UTC -11"
+msgstr "UTC -11"
+
+#: wpcloudy.php:416
+msgid "UTC -10"
+msgstr "UTC -10"
+
+#: wpcloudy.php:417
+msgid "UTC -9"
+msgstr "UTC -9"
+
+#: wpcloudy.php:418
+msgid "UTC -8"
+msgstr "UTC -8"
+
+#: wpcloudy.php:419
+msgid "UTC -7"
+msgstr "UTC -7"
+
+#: wpcloudy.php:420
+msgid "UTC -6"
+msgstr "UTC -6"
+
+#: wpcloudy.php:421
+msgid "UTC -5"
+msgstr "UTC -5"
+
+#: wpcloudy.php:422
+msgid "UTC -4"
+msgstr "UTC -4"
+
+#: wpcloudy.php:423
+msgid "UTC -3"
+msgstr "UTC -3"
+
+#: wpcloudy.php:424
+msgid "UTC -2"
+msgstr "UTC -2"
+
+#: wpcloudy.php:425
+msgid "UTC -1"
+msgstr "UTC -1"
+
+#: wpcloudy.php:426
+msgid "UTC 0"
+msgstr "UTC 0"
+
+#: wpcloudy.php:427
+msgid "UTC +1"
+msgstr "UTC +1"
+
+#: wpcloudy.php:428
+msgid "UTC +2"
+msgstr "UTC +2"
+
+#: wpcloudy.php:429
+msgid "UTC +3"
+msgstr "UTC +3"
+
+#: wpcloudy.php:430
+msgid "UTC +4"
+msgstr "UTC +4"
+
+#: wpcloudy.php:431
+msgid "UTC +5"
+msgstr "UTC +5"
+
+#: wpcloudy.php:432
+msgid "UTC +6"
+msgstr "UTC +6"
+
+#: wpcloudy.php:433
+msgid "UTC +7"
+msgstr "UTC +7"
+
+#: wpcloudy.php:434
+msgid "UTC +8"
+msgstr "UTC +8"
+
+#: wpcloudy.php:435
+msgid "UTC +9"
+msgstr "UTC +9"
+
+#: wpcloudy.php:436
+msgid "UTC +10"
+msgstr "UTC +10"
+
+#: wpcloudy.php:437
+msgid "UTC +11"
+msgstr "UTC +11"
+
+#: wpcloudy.php:438
+msgid "UTC +12"
+msgstr "UTC +12"
+
+#: wpcloudy.php:456
+msgid "Dates"
+msgstr ""
+
+#: wpcloudy.php:461
+msgid "No date (default)?"
+msgstr "Nincs dátum (alapértelmezett)?"
+
+#: wpcloudy.php:473
+msgid "Todays date (based on your WordPress General Settings)?"
+msgstr "Mai dátum (alapja a te WordPress Általános Beállításoknak)?"
+
+#: wpcloudy.php:477
+msgid "Misc"
+msgstr ""
+
+#: wpcloudy.php:482
+msgid "Sunrise + sunset? appears only if today date is checked"
+msgstr ""
+"Napkelte + naplemente? csak akkor jelenik meg, ha a mai dátum van jelölve"
+
+#: wpcloudy.php:516
+msgid "Temperatures"
+msgstr "Hőmérsékletek"
+
+#: wpcloudy.php:531
+msgid "Hourly Forecast"
+msgstr "Órai Előrejelzés"
+
+#: wpcloudy.php:536
+msgid "Hour Forecast?"
+msgstr "Órás Előrejelzés"
+
+#: wpcloudy.php:540
+msgid "How hours ranges ?"
+msgstr "Hogyan terjed óráig?"
+
+#: wpcloudy.php:550
+msgid ""
+"Make sure you have properly set the date of your site in WordPress settings."
+msgstr ""
+"Győződjön meg róla, hogy megfelelően állítja be a dátumot a webhely a "
+"WordPress beállításoknál."
+
+#: wpcloudy.php:558
+msgid "16-Day Forecast? (today + 15 days max)"
+msgstr "16 napos Előrejelzést? (ma + 15 napos max)"
+
+#: wpcloudy.php:562
+msgid "How many days?"
+msgstr "Hány napos"
+
+#: wpcloudy.php:584
+msgid "Short days names?"
+msgstr "Rövid napok neve?"
+
+#: wpcloudy.php:590
+msgid "Normal days names?"
+msgstr "Normál napok neve?"
+
+#: wpcloudy.php:611
+msgid "Fluid design? (useful with small container)"
+msgstr "Folyékony design? (Hasznos a kis tároló)"
+
+#: wpcloudy.php:615
+msgid "Max width parent container to enable fluid design (pixels):"
+msgstr "Max szélesség szülőtárolónál, hogy folyékony design (képpont):"
+
+#: wpcloudy.php:623
+msgid "Disable CSS3 animations?"
+msgstr "Tiltja a CSS3 animációt?"
+
+#: wpcloudy.php:639
+msgid "Custom CSS"
+msgstr "Egyéni CSS"
+
+#: wpcloudy.php:643
+msgid "Weather size?"
+msgstr "Időjárás méret?"
+
+#: wpcloudy.php:655
+msgid "Display map?"
+msgstr "Térkép kijelzése?"
+
+#: wpcloudy.php:659
+msgid "Map height (in px)"
+msgstr "Térkép hossza (pixelbe)"
+
+#: wpcloudy.php:704
+msgid "Disable zoom wheel on map?"
+msgstr "Zoom görgetés tiltása a térképen?"
+
+#: wpcloudy.php:708
+msgid "Layers"
+msgstr "Rétegek"
+
+#: wpcloudy.php:713
+msgid "Display stations?"
+msgstr "Állomás mutatása?"
+
+#: wpcloudy.php:719
+msgid "Display clouds?"
+msgstr "Felhők kijelzése?"
+
+#: wpcloudy.php:725
+msgid "Display precipitation?"
+msgstr "Csapadék kijelzése?"
+
+#: wpcloudy.php:731
+msgid "Display snow?"
+msgstr "Hó kijelzése?"
+
+#: wpcloudy.php:737
+msgid "Display wind?"
+msgstr "Szél kijelzése?"
+
+#: wpcloudy.php:743
+msgid "Display temperature?"
+msgstr "Hőmérséklet kijelzése?"
+
+#: wpcloudy.php:749
+msgid "Display pressure?"
+msgstr "Nyomás kijelzése?"
+
+#: wpcloudy.php:1373 wpcloudy.php:1383 wpcloudy.php:1394 wpcloudy.php:1457
+#: wpcloudy.php:1466 wpcloudy.php:1476 wpcloudy.php:1534 wpcloudy.php:1543
+#: wpcloudy.php:1553
+msgid "Unable to retrieve weather data"
+msgstr "Nem sikerült lekérdezni az időjárási adatokat"
+
+#: wpcloudy.php:1618
+msgid "Full weather on OpenWeatherMap"
+msgstr "Teljes időjárás az Nyitott Időjárás Térkép"
+
+#: wpcloudy.php:1618
+msgid "Full weather"
+msgstr "Teljes Időjárás"
+
+#: wpcloudy.php:1619
+msgid "Last update: "
+msgstr "Utolsó frissítés:"
+
+#: wpcloudy.php:1650 wpcloudy.php:1727 wpcloudy.php:1752
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: wpcloudy.php:1653 wpcloudy.php:1730 wpcloudy.php:1755
+msgid "Monday"
+msgstr "Hétfő"
+
+#: wpcloudy.php:1656 wpcloudy.php:1733 wpcloudy.php:1758
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: wpcloudy.php:1659 wpcloudy.php:1736 wpcloudy.php:1761
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: wpcloudy.php:1662 wpcloudy.php:1739 wpcloudy.php:1764
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: wpcloudy.php:1665 wpcloudy.php:1742 wpcloudy.php:1767
+msgid "Friday"
+msgstr "Péntek"
+
+#: wpcloudy.php:1668 wpcloudy.php:1745 wpcloudy.php:1770
+msgid "Saturday"
+msgstr "Szombat"
+
+#: wpcloudy.php:1702
+msgid "Sun"
+msgstr "Nap"
+
+#: wpcloudy.php:1705
+msgid "Mon"
+msgstr "Hét"
+
+#: wpcloudy.php:1708
+msgid "Tue"
+msgstr "Ke"
+
+#: wpcloudy.php:1711
+msgid "Wed"
+msgstr "Sze"
+
+#: wpcloudy.php:1714
+msgid "Thu"
+msgstr "Csü"
+
+#: wpcloudy.php:1717
+msgid "Fri"
+msgstr "Pé"
+
+#: wpcloudy.php:1720
+msgid "Sat"
+msgstr "Szo"
+
+#: wpcloudy.php:1788
+msgid "clear sky"
+msgstr "tiszta égbolt"
+
+#: wpcloudy.php:1793
+msgid "few clouds"
+msgstr "kissé felhős"
+
+#: wpcloudy.php:1798
+msgid "scattered clouds"
+msgstr "szétszórt felhőzet"
+
+#: wpcloudy.php:1803
+msgid "broken clouds"
+msgstr "felszakadozott felhőzet"
+
+#: wpcloudy.php:1808
+msgid "overcast clouds"
+msgstr "borús égbolt"
+
+#: wpcloudy.php:1815
+msgid "light rain"
+msgstr "enyhe eső"
+
+#: wpcloudy.php:1820
+msgid "moderate rain"
+msgstr "mérsékelt eső"
+
+#: wpcloudy.php:1825
+msgid "heavy intensity rain"
+msgstr "nagy eső"
+
+#: wpcloudy.php:1830
+msgid "very heavy rain"
+msgstr "kiadós eső"
+
+#: wpcloudy.php:1835
+msgid "extreme rain"
+msgstr "szélsőséges esőzés"
+
+#: wpcloudy.php:1840
+msgid "freezing rain"
+msgstr "ónos eső"
+
+#: wpcloudy.php:1845
+msgid "light intensity shower rain"
+msgstr "enyhe zivatar"
+
+#: wpcloudy.php:1850
+msgid "shower rain"
+msgstr "zivatar"
+
+#: wpcloudy.php:1855
+msgid "heavy intensity shower rain"
+msgstr "nagy zivatar"
+
+#: wpcloudy.php:1860
+msgid "ragged shower rain"
+msgstr "erős zivatar"
+
+#: wpcloudy.php:1867
+msgid "light intensity drizzle"
+msgstr "enyhe szitáló eső"
+
+#: wpcloudy.php:1872
+msgid "drizzle"
+msgstr "finoman szitáló eső"
+
+#: wpcloudy.php:1877
+msgid "heavy intensity drizzle"
+msgstr "nagy intenzitású szitáló eső"
+
+#: wpcloudy.php:1882
+msgid "light intensity drizzle rain"
+msgstr "enyhe intenzitású szitáló eső"
+
+#: wpcloudy.php:1887
+msgid "drizzle rain"
+msgstr "szitáló eső"
+
+#: wpcloudy.php:1892
+msgid "heavy intensity drizzle rain"
+msgstr "erős intenzitású szitáló eső"
+
+#: wpcloudy.php:1897
+msgid "shower rain and drizzle"
+msgstr "enyhe zápor és szitálás"
+
+#: wpcloudy.php:1902
+msgid "heavy shower rain and drizzle"
+msgstr "erős zápor szitáló esővel"
+
+#: wpcloudy.php:1907
+msgid "shower drizzle"
+msgstr "zápor"
+
+#: wpcloudy.php:1914
+msgid "light snow"
+msgstr "kevés hó"
+
+#: wpcloudy.php:1919
+msgid "snow"
+msgstr "hó"
+
+#: wpcloudy.php:1924
+msgid "heavy snow"
+msgstr "erős havazás"
+
+#: wpcloudy.php:1929
+msgid "sleet"
+msgstr "ónos eső"
+
+#: wpcloudy.php:1934
+msgid "shower sleet"
+msgstr "zivataros ónos eső"
+
+#: wpcloudy.php:1939
+msgid "light rain and snow"
+msgstr "kisebb havaseső"
+
+#: wpcloudy.php:1944
+msgid "rain and snow"
+msgstr "havaseső"
+
+#: wpcloudy.php:1949
+msgid "light shower snow"
+msgstr "enyhe hózivatar"
+
+#: wpcloudy.php:1954
+msgid "shower snow"
+msgstr "hózivatar"
+
+#: wpcloudy.php:1959
+msgid "heavy shower snow"
+msgstr "heves hózápor, nagy hózivatar"
+
+#: wpcloudy.php:1966
+msgid "mist"
+msgstr "köd"
+
+#: wpcloudy.php:1971
+msgid "smoke"
+msgstr "füst"
+
+#: wpcloudy.php:1976
+msgid "haze"
+msgstr "köd"
+
+#: wpcloudy.php:1981
+msgid "sand, dust whirls"
+msgstr "porfelhő"
+
+#: wpcloudy.php:1986
+msgid "fog"
+msgstr "köd"
+
+#: wpcloudy.php:1993
+msgid "tornado"
+msgstr "tornádó"
+
+#: wpcloudy.php:1998
+msgid "tropical storm"
+msgstr "trópusi vihar"
+
+#: wpcloudy.php:2003
+msgid "hurricane"
+msgstr "hurrikán"
+
+#: wpcloudy.php:2008
+msgid "windy"
+msgstr "szeles"
+
+#: wpcloudy.php:2013
+msgid "hail"
+msgstr "jégeső"
+
+#: wpcloudy.php:2020
+msgid "thunderstorm with light rain"
+msgstr "zivatar"
+
+#: wpcloudy.php:2026
+msgid "thunderstorm with rain"
+msgstr "eső"
+
+#: wpcloudy.php:2032
+msgid "thunderstorm with heavy rain"
+msgstr "nagy eső"
+
+#: wpcloudy.php:2038
+msgid "light thunderstorm"
+msgstr "enyhe vihar"
+
+#: wpcloudy.php:2044
+msgid "thunderstorm"
+msgstr "vihar"
+
+#: wpcloudy.php:2050
+msgid "heavy thunderstorm"
+msgstr "heves vihar"
+
+#: wpcloudy.php:2056
+msgid "ragged thunderstorm"
+msgstr "tomboló vihar"
+
+#: wpcloudy.php:2062
+msgid "thunderstorm with light drizzle"
+msgstr "zápor"
+
+#: wpcloudy.php:2068
+msgid "thunderstorm with drizzle"
+msgstr "szitáló eső"
+
+#: wpcloudy.php:2074
+msgid "thunderstorm with heavy drizzle"
+msgstr "sűrűn szitáló eső"
+
+#: wpcloudy.php:2106
+msgid "Today"
+msgstr "Ma"
+
+#: wpcloudy.php:2116
+msgid "Wind"
+msgstr "Szél"
+
+#: wpcloudy.php:2119
+msgid "Humidity"
+msgstr "Páratartalom"
+
+#: wpcloudy.php:2122
+msgid "Pressure"
+msgstr "Nyomás"
+
+#: wpcloudy.php:2125
+msgid "Cloudiness"
+msgstr "Felhősség"
+
+#: wpcloudy.php:2129 wpcloudy.php:2134
+msgid "Precipitation"
+msgstr "Csapadék"
+
+#: wpcloudy.php:2143 wpcloudy.php:2151
+msgid "Now"
+msgstr "Most"
+
+#: wpcloudy.php:2683
+msgid "Shortcode"
+msgstr "Rövid kód"
+
+#: wpcloudy.php:2706 wpcloudy.php:2707 wpcloudy.php:2708
+msgid "Weather"
+msgstr "Időjárás"
+
+#: wpcloudy.php:2709
+msgid "Parent Weather:"
+msgstr "Szülő Időjárás"
+
+#: wpcloudy.php:2710
+msgid "All Weather"
+msgstr "Minden Időjárás"
+
+#: wpcloudy.php:2711
+msgid "View Weather"
+msgstr "Időjárás nézet"
+
+#: wpcloudy.php:2712
+msgid "Add New Weather"
+msgstr "Új időjárást hozzáad"
+
+#: wpcloudy.php:2713
+msgid "New Weather"
+msgstr "Új időjárás"
+
+#: wpcloudy.php:2714
+msgid "Edit Weather"
+msgstr "Időjárás szerkesztése"
+
+#: wpcloudy.php:2715
+msgid "Update Weather"
+msgstr "Időjárás frissítése"
+
+#: wpcloudy.php:2716
+msgid "Search Weather"
+msgstr "Időjárás keresés"
+
+#: wpcloudy.php:2717
+msgid "No weather found"
+msgstr "Időjárást nem talált"
+
+#: wpcloudy.php:2718
+msgid "No weather found in Trash"
+msgstr "Nem talált időjárást a kukába"
+
+#: wpcloudy.php:2722
+msgid "weather"
+msgstr "időjárás"
+
+#: wpcloudy.php:2723
+msgid "Listing weather"
+msgstr "Időjárás listázása"
+
+#: wpcloudy.php:2760 wpcloudy.php:2763
+msgid " updated."
+msgstr "frissített."
+
+#: wpcloudy.php:2761
+msgid "Custom field updated."
+msgstr "Aktuális mező mentése"
+
+#: wpcloudy.php:2762
+msgid "Custom field deleted."
+msgstr "Aktuális mező törlése"
+
+#: wpcloudy.php:2764
+#, php-format
+msgid " restored to revision from %s"
+msgstr "felülvizsgálat helyreállítása %s"
+
+#: wpcloudy.php:2765
+msgid " published."
+msgstr "közzétett"
+
+#: wpcloudy.php:2766
+msgid "Page saved."
+msgstr "Oldal mentése."
+
+#: wpcloudy.php:2767
+msgid " submitted."
+msgstr "beállított."
+
+#: wpcloudy.php:2768
+#, php-format
+msgid " scheduled for: <strong>%1$s</strong>. "
+msgstr " ütemezett: <strong>%1$s</strong>. "
+
+#: wpcloudy.php:2768
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: wpcloudy.php:2769
+msgid " draft updated."
+msgstr "tervezet frissítve."
+
+#: wpcloudy.php:2785
+msgid ""
+"WP Cloudy: Please enter your own OpenWeatherMap API key to avoid limits "
+"requests."
+msgstr ""
+"WP felhő: Kérjük adja meg a saját OpenWeatherMap API kulcsot, hogy elkerülje "
+"korlátok kéréseket."
+
+#~ msgid "Lenght name days:"
+#~ msgstr "Névnapok hossza:"

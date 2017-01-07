@@ -1,0 +1,46 @@
+#swdSliders_admin_metabox_diaporama tr th {padding: 20px 10px 0;}
+#swdSliders_admin_metabox_diaporama tr td {padding: 15px 10px 0;}
+
+#swdSliders_admin_metabox_diaporama .wp-picker-container {line-height: 30px; padding-left: 5px;}
+
+#poststuff .frame-picture h3 {padding-bottom: 0;}
+.frame-picture {margin-top: 20px;}
+.frame-picture p, .slider-styles {margin-left: 10px;}
+
+#swdSliders_admin_metabox_diaporama .form-table span {font-weight: normal;}
+.lien {width: 100%}
+
+span.select-image {width: 94%; position: absolute; text-align: right; margin-top: 20px;}
+input.bouton {width: 147px;}
+
+.wrap .dashicons-before.dashicons-admin-settings {float: left; width: 36px; height: 34px; margin: 0; text-align: center;}
+.wrap .dashicons-before:before {font-size: 40px; margin-left: -25px;}
+
+#emplacement, #dossier, .repertoireDestination {font-weight: bold;margin: 1.5em 0.1em 0.3em;}
+#emplacement p {font-weight: normal;}
+
+#labelRacine {border: 1px solid #C3C3C3; width: 212px; margin: 0 0 -14px; background-color: #FFF; padding-left: 6px;}
+input:disabled#labelRacine {color: #555;}
+#dirPlugin, #dirSite, #dirMedia {display: none;}
+#dirPlugin {display: block;}
+
+#repertoireDestination {font-size: initial; color: #0091cd; margin-bottom: 20px;}
+.auteur {margin: 3em 0 1.5em;}
+.don {margin-top: 45px;}
+
+.explore {
+	width: 200px;
+	height: 120px;
+	border-top: solid 1px #BBB;
+	border-left: solid 1px #BBB;
+	border-bottom: solid 1px #FFF;
+	border-right: solid 1px #FFF;
+	background: #FFF;
+	overflow: scroll;
+	padding: 5px;
+}
+
+.frame-picture {border-top: solid 1px #ccc; padding: 10px 0;}
+.hide_text_image {border-bottom: solid 1px #ccc; padding: 10px 10px 15px;}
+
+.left {float: left; width: 120px;}
